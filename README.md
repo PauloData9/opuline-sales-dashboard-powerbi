@@ -18,9 +18,8 @@ Dashboard de Business Intelligence desenvolvido em Power BI para transformar dad
 
 ## Dashboard de Vendas
 
-Visão executiva do desempenho comercial da Opuline, reunindo KPIs, metas, evolução temporal, distribuição geográfica e análises estratégicas das vendas.
-
 ![Dashboard Vendas](assets/dashboard-sales.png)
+Visão executiva do desempenho comercial da Opuline, reunindo KPIs, metas, evolução temporal, distribuição geográfica e análises estratégicas das vendas.
 
 ---
 
@@ -55,9 +54,8 @@ Desenvolver um dashboard interativo que permita:
 
 ## Dashboard de Produtos
 
-Visão analítica do portfólio de produtos, permitindo comparar faturamento, preço, categorias e identificar os itens de maior desempenho.
-
 ![Dashboard Produtos](assets/dashboard-products.png)
+Visão analítica do portfólio de produtos, permitindo comparar faturamento, preço, categorias e identificar os itens de maior desempenho.
 
 ---
 
