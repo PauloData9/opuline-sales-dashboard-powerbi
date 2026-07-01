@@ -1,6 +1,6 @@
 # Opuline Sales Dashboard
 
-Business Intelligence Dashboard desenvolvido em Power BI para apoiar a tomada de decisão estratégica de uma empresa fictícia do setor de cosméticos.
+Dashboard de Business Intelligence desenvolvido em Power BI para transformar dados de vendas em informações estratégicas para apoio à tomada de decisão de uma empresa fictícia do setor de cosméticos.
 
 **Status**: Concluído
 
@@ -17,6 +17,8 @@ Business Intelligence Dashboard desenvolvido em Power BI para apoiar a tomada de
 ---
 
 ## Dashboard de Vendas
+
+Visão executiva do desempenho comercial da Opuline, reunindo KPIs, metas, evolução temporal, distribuição geográfica e análises estratégicas das vendas.
 
 ![Dashboard Vendas](assets/dashboard-sales.png)
 
@@ -53,11 +55,13 @@ Desenvolver um dashboard interativo que permita:
 
 ## Dashboard de Produtos
 
+Visão analítica do portfólio de produtos, permitindo comparar faturamento, preço, categorias e identificar os itens de maior desempenho.
+
 ![Dashboard Produtos](assets/dashboard-products.png)
 
 ---
 
-## Principais funcionalidades
+## Capacidades analíticas
 
 - Monitoramento de KPIs estratégicos
 - Acompanhamento de metas
@@ -114,6 +118,7 @@ Desenvolver um dashboard interativo que permita:
 - Power BI Desktop
 - DAX
 - Power Query
+- Excel
 - Modelagem Dimensional
 - Visualizações Interativas
 
@@ -121,35 +126,34 @@ Desenvolver um dashboard interativo que permita:
 
 ## Estrutura do projeto
 
-dashboard/
-
-- Opuline.pbix
-
-assets/
-
-- dashboard-home.png
-- dashboard-products.png
-
-docs/
-
-- dashboard.pdf
-
-data/
-
-- opuline-dataset.xlsx
-
+```text
+.
+├── assets/
+│   ├── dashboard-sales.png
+│   └── dashboard-products.png
+├── dashboard/
+│   └── Opuline.pbix
+├── data/
+│   └── opuline-dataset.xlsx
+├── docs/
+│   └── dashboard.pdf
+├── README.md
+└── LICENSE
+```
 ---
 
 ## Como visualizar
 
-Caso possua o Power BI Desktop instalado, basta abrir o arquivo:
+Para explorar o dashboard de forma interativa, abra o arquivo `dashboard/opuline.pbix` utilizando o Power BI Desktop.
 
-dashboard/Opuline.pbix
-
-Também é possível visualizar uma versão estática do dashboard através do arquivo PDF disponível na pasta docs.
+Caso não possua o Power BI instalado, uma versão estática do dashboard está disponível em `docs/dashboard.pdf`.
 
 ---
 
 ## Autor
 
-Paulo Ricardo Costa Mariano de Souza
+**Paulo Ricardo Costa Mariano de Souza**
+
+- GitHub: https://github.com/PauloData9
+- LinkedIn: https://www.linkedin.com/in/paulo-ricardo-costa-mariano-de-souza-834585376
+
