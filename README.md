@@ -93,8 +93,6 @@ Desenvolver um dashboard interativo que permita:
 
 ## Principais insights
 
-## Principais insights
-
 - A categoria de maquiagem apresentou o maior faturamento entre todas as categorias analisadas, consolidando-se como o principal segmento de vendas da empresa.
 
 - O faturamento superou a meta estabelecida para o período analisado, indicando desempenho comercial acima do objetivo definido.
