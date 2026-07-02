@@ -1,4 +1,4 @@
-# Opuline Sales Dashboard
+# Cosmic Sales Dashboard
 
 Dashboard de Business Intelligence desenvolvido em Power BI para transformar dados de vendas em informações estratégicas para apoio à tomada de decisão de uma empresa fictícia do setor de cosméticos.
 
@@ -6,7 +6,7 @@ Dashboard de Business Intelligence desenvolvido em Power BI para transformar dad
 
 **Tipo de projeto**: Dashboard Analítico
 
-**Empresa**: Opuline (empresa fictícia)
+**Empresa**: Cosmic (empresa fictícia)
 
 **Segmento**: Cosméticos
 
@@ -17,14 +17,14 @@ Dashboard de Business Intelligence desenvolvido em Power BI para transformar dad
 ---
 
 ## Dashboard de Vendas
-Visão executiva do desempenho comercial da Opuline, reunindo KPIs, metas, evolução temporal, distribuição geográfica e análises estratégicas das vendas.
+Visão executiva do desempenho comercial da Cosmic, reunindo KPIs, metas, evolução temporal, distribuição geográfica e análises estratégicas das vendas.
 ![Dashboard Vendas](assets/dashboard-sales.png)
 
 ---
 
 ## Sobre o projeto
 
-A Opuline é uma empresa fictícia do setor de cosméticos que deseja adotar uma cultura orientada por dados para apoiar suas decisões estratégicas.
+A Cosmic é uma empresa fictícia do setor de cosméticos que deseja adotar uma cultura orientada por dados para apoiar suas decisões estratégicas.
 
 Neste projeto foi desenvolvido um dashboard interativo no Power BI com o objetivo de transformar dados de vendas em informações acionáveis, permitindo acompanhar indicadores de desempenho, identificar padrões de comportamento e gerar insights para o negócio.
 
@@ -128,9 +128,9 @@ Visão analítica do portfólio de produtos, permitindo comparar faturamento, pr
 │   ├── dashboard-sales.png
 │   └── dashboard-products.png
 ├── dashboard/
-│   └── Opuline.pbix
+│   └── Cosmic.pbix
 ├── data/
-│   └── opuline-dataset.xlsx
+│   └── Cosmic-dataset.xlsx
 ├── docs/
 │   └── dashboard.pdf
 ├── README.md
@@ -140,7 +140,7 @@ Visão analítica do portfólio de produtos, permitindo comparar faturamento, pr
 
 ## Como visualizar
 
-Para explorar o dashboard de forma interativa, abra o arquivo `dashboard/Opuline.pbix` utilizando o Power BI Desktop.
+Para explorar o dashboard de forma interativa, abra o arquivo `dashboard/Cosmic.pbix` utilizando o Power BI Desktop.
 
 Caso não possua o Power BI instalado, uma versão estática do dashboard está disponível em `docs/dashboard.pdf`.
 
